@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coco</folder>
+	<filename>00008_00001_00024.png</filename>
+	<path>/Users/Angyu/Desktop/Test/coco/00008_00001_00024.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>57</width>
+		<height>55</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed Limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>6</ymin>
+			<xmax>52</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>

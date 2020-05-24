@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coco</folder>
+	<filename>00039_00000_00002.png</filename>
+	<path>/Users/Angyu/Desktop/Test/coco/00039_00000_00002.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>82</width>
+		<height>81</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Keep Left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>6</ymin>
+			<xmax>79</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

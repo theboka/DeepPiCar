@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coco</folder>
+	<filename>00019_00001_00026.png</filename>
+	<path>/Users/Angyu/Desktop/Test/coco/00019_00001_00026.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>102</width>
+		<height>90</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dangerous curve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>11</ymin>
+			<xmax>95</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+</annotation>
