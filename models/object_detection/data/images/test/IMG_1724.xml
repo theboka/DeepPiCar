@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new</folder>
+	<filename>IMG_1724.png</filename>
+	<path>/Users/Angyu/Desktop/files/new/IMG_1724.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>591</xmin>
+			<ymin>76</ymin>
+			<xmax>2759</xmax>
+			<ymax>2289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>302</ymin>
+			<xmax>611</xmax>
+			<ymax>1122</ymax>
+		</bndbox>
+	</object>
+</annotation>

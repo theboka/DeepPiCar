@@ -1,0 +1,50 @@
+<annotation>
+	<folder>new</folder>
+	<filename>IMG_1737.png</filename>
+	<path>/Users/Angyu/Desktop/files/new/IMG_1737.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bump Ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1039</xmin>
+			<ymin>2296</ymin>
+			<xmax>1812</xmax>
+			<ymax>3116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1045</xmin>
+			<ymin>1482</ymin>
+			<xmax>1799</xmax>
+			<ymax>2202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1018</xmin>
+			<ymin>856</ymin>
+			<xmax>1699</xmax>
+			<ymax>1436</ymax>
+		</bndbox>
+	</object>
+</annotation>
