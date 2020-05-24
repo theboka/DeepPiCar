@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new2</folder>
+	<filename>img_1776.png</filename>
+	<path>/Users/Angyu/Desktop/files/new/new2/img_1776.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Road Work</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>69</ymin>
+			<xmax>310</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new2</folder>
+	<filename>img_1795.png</filename>
+	<path>/Users/Angyu/Desktop/files/new/new2/img_1795.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Keep Left Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>142</ymin>
+			<xmax>202</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Left Turn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>51</ymin>
+			<xmax>441</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

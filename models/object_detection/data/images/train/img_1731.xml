@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new2</folder>
+	<filename>img_1731.png</filename>
+	<path>/Users/Angyu/Desktop/files/new/new2/img_1731.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>72</ymin>
+			<xmax>360</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>71</ymin>
+			<xmax>313</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>
