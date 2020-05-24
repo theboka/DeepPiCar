@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new</folder>
+	<filename>IMG_1751.png</filename>
+	<path>/Users/Angyu/Desktop/files/new/IMG_1751.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zebra Crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>758</xmin>
+			<ymin>502</ymin>
+			<xmax>2739</xmax>
+			<ymax>2142</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Zebra Crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>342</ymin>
+			<xmax>1912</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

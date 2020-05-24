@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>IMG_1775 2.png</filename>
+	<path>/Users/Angyu/Desktop/files/new/IMG_1775 2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Traffic Light Ahead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>1096</ymin>
+			<xmax>1139</xmax>
+			<ymax>1849</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new</folder>
+	<filename>IMG_1792 2.png</filename>
+	<path>/Users/Angyu/Desktop/files/new/IMG_1792 2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2285</xmin>
+			<ymin>1669</ymin>
+			<xmax>2439</xmax>
+			<ymax>1842</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Yield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>1576</ymin>
+			<xmax>838</xmax>
+			<ymax>1716</ymax>
+		</bndbox>
+	</object>
+</annotation>
