@@ -1,0 +1,50 @@
+<annotation>
+	<folder>coco1</folder>
+	<filename>COCO_test2014_000000000958.png</filename>
+	<path>/Users/Angyu/Desktop/coco1/COCO_test2014_000000000958.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>102</ymin>
+			<xmax>389</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Zebra Crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>331</ymin>
+			<xmax>248</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Zebra Crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>359</ymin>
+			<xmax>480</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

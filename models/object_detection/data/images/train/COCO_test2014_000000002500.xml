@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coco1</folder>
+	<filename>COCO_test2014_000000002500.png</filename>
+	<path>/Users/Angyu/Desktop/coco1/COCO_test2014_000000002500.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>271</ymin>
+			<xmax>370</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>
