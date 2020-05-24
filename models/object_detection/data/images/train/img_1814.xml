@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new2</folder>
+	<filename>img_1814.png</filename>
+	<path>/Users/Angyu/Desktop/files/new/new2/img_1814.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>150</ymin>
+			<xmax>278</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>
